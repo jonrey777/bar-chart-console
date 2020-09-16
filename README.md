@@ -28,7 +28,7 @@ barChart.draw(data);
 ```
 ###### Notice
 ```
-  This module is not completely done.
+  This module is not yet completely done.
   _Please contact the developer for suggestions and improvements._
 ```
 
