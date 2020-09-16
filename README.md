@@ -1,4 +1,3 @@
-
 # How To Install
 
 ```sh
@@ -27,3 +26,10 @@ barChart.draw(data);
       2000   2001   2002  2020  
 
 ```
+###### Notice
+```
+  This module is not completely done.
+  _Please contact the developer for suggestions and improvements._
+```
+
+
