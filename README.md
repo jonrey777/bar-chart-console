@@ -1,13 +1,13 @@
 # How To Install
 
 ```sh
-npm install bar-chart-console
+npm install console-bar-chart
 ```
 
 # How To Use
 
 ```js
-const barChart = require('bar-chart-console')
+const barChart = require('console-bar-chart')
 
 let data = {
   "label"  : ["2000","2001","2002","2020"],
